@@ -1,0 +1,156 @@
+{
+    "name": "AnAnimeTheme",
+    "description": "An anime theme made with much love :3",
+    "version": "1.0",
+    "authors": [
+      {
+        "name": "night man（夜人）",
+        "id": "782448408979832892"
+      }
+    ],
+    "theme_color_map": {
+      "HEADER_PRIMARY": [
+        "#c8c8c8",
+        "#060607"
+      ],
+      "HEADER_SECONDARY": [
+        "#B6B6B6",
+        "#4f5660"
+      ],
+      "TEXT_NORMAL": [
+        "#E6FF29",
+        "#2e3338"
+      ],
+      "TEXT_MUTED": [
+        "#a1a1a1",
+        "#747f8d"
+      ],
+      "INTERACTIVE_NORMAL": [
+        "#078f8c",
+        "#4f5660"
+      ],
+      "INTERACTIVE_HOVER": [
+        "#078f8c",
+        "#2e3338"
+      ],
+      "INTERACTIVE_ACTIVE": [
+        "#43e63f",
+        "#060607"
+      ],
+      "INTERACTIVE_MUTED": [
+        "#697eab",
+        "#c7ccd1"
+      ],
+      "BACKGROUND_PRIMARY": [
+        "#090909",
+        "#275435"
+      ],
+      "BACKGROUND_SECONDARY": [
+        "#282828",
+        "#275435"
+      ],
+      "BACKGROUND_SECONDARY_ALT": [
+        "#275435",
+        "#275435"
+      ],
+      "BACKGROUND_TERTIARY": [
+        "#121212",
+        "#275435"
+      ],
+      "BACKGROUND_ACCENT": [
+        "#09ebe7",
+        "#747f8d"
+      ],
+      "BACKGROUND_FLOATING": [
+        "#202020",
+        "#275435"
+      ],
+      "BACKGROUND_MOBILE_PRIMARY": [
+        "#202020",
+        "#275435"
+      ],
+      "BACKGROUND_MOBILE_SECONDARY": [
+        "#000000",
+        "#ffffff"
+      ],
+      "BACKGROUND_NESTED_FLOATING": [
+        "#121212",
+        "#275435"
+      ],
+      "BACKGROUND_MESSAGE_HOVER": [
+        "rgba(255, 255, 255, 0.02)",
+        "#275435"
+      ],
+      "BACKGROUND_MODIFIER_HOVER": [
+        "rgba(255, 255, 255, 0.02)",
+        "hsla(214, 9.9%, 50.4%, 0.08)"
+      ],
+      "BACKGROUND_MODIFIER_ACTIVE": [
+        "rgba(255, 255, 255, 0.03)",
+        "hsla(214, 9.9%, 50.4%, 0.16)"
+      ],
+      "BACKGROUND_MODIFIER_SELECTED": [
+        "rgba(255, 255, 255, 0.04)",
+        "hsla(214, 9.9%, 50.4%, 0.24)"
+      ],
+      "BACKGROUND_MODIFIER_ACCENT": [
+        "transparent",
+        "hsla(240, 7.7%, 2.5%, 0.08)"
+      ],
+      "SCROLLBAR_THIN_THUMB": [
+        "#2a1858",
+        "hsla(217, 7.6%, 33.5%, 0.3)"
+      ],
+      "SCROLLBAR_THIN_TRACK": [
+        "transparent",
+        "hsla(0, 0%, 0%, 0)"
+      ],
+      "SCROLLBAR_AUTO_THUMB": [
+        "#2a1858",
+        "#cccccc"
+      ],
+      "SCROLLBAR_AUTO_TRACK": [
+        "rgba(0, 0, 0, 0.1)",
+        "#f2f2f2"
+      ],
+      "CHANNELTEXTAREA_BACKGROUND": [
+        "#111111",
+        "#275435"
+      ],
+      "CHANNELS_DEFAULT": [
+        "#b6b6b6",
+        "#6a7480"
+      ],
+      "TEXT_LINK": [
+        "#5680d4",
+        "#000000"
+      ],
+      "KEYBOARD": [
+        "#181818",
+        "#275435"
+      ]
+    },
+    "colours": {
+      "PRIMARY_DARK": "#747474",
+      "PRIMARY_DARK_100": "#275435",
+      "PRIMARY_DARK_200": "#275435",
+      "PRIMARY_DARK_300": "#275435",
+      "PRIMARY_DARK_360": "#275435",
+      "PRIMARY_DARK_400": "#078f8c",
+      "PRIMARY_DARK_500": "#078f8c",
+      "PRIMARY_DARK_600": "#181818",
+      "PRIMARY_DARK_630": "#101010",
+      "PRIMARY_DARK_700": "#000000",
+      "PRIMARY_DARK_800": "#181818",
+      "BRAND_NEW": "#078f8c",
+      "STATUS_RED": "#5680d4",
+      "STATUS_GREEN_600": "#C0FF29"
+    },
+    "unsafe_colors": {
+      "CHAT_GREY": "#181818"
+    },
+    "background": {
+      "url": "https://cdn.discordapp.com/attachments/1088347279695564830/1088351565523464222/Untitled.png",
+      "alpha": 1.0
+    }
+  }
